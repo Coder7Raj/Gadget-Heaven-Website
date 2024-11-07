@@ -1,4 +1,4 @@
-# Gadget Heaven - Coder7Raj
+# Gadget Heaven 
 
 This is a React-based e-commerce project where users can explore, add items to the cart, and manage their gadgets. The project uses various React concepts and includes features like state management and dynamic routing.
 
@@ -9,7 +9,7 @@ This is a React-based e-commerce project where users can explore, add items to t
 
 ## Requirement Document Link
 
-[Requirement Document](https://your-requirement-link.com)  
+[Requirement Document](https://drive.google.com/file/d/1ilUUTAPIRi2-5wLIG9CBUG5M9h0pzo80/view)  
 (Replace the placeholder with your actual requirement document link)
 
 ## React Fundamental Concepts Used in the Project
@@ -39,8 +39,6 @@ This is a React-based e-commerce project where users can explore, add items to t
 ## Installation Instructions
 
 To run the project locally:
-
-1. Clone the repository:
    ```bash
    git clone https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-Coder7Raj.git
    ```
