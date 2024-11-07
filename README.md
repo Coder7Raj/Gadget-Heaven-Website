@@ -4,7 +4,7 @@ This is a React-based e-commerce project where users can explore, add items to t
 
 ## Live Website Link
 
-[Live Demo of Gadget Heaven](https://your-netlify-link.com)  
+[Live Demo of Gadget Heaven](https://gadget-heaven-website.vercel.app/)  
 (Replace the placeholder with your actual live website link)
 
 ## Requirement Document Link
@@ -40,5 +40,5 @@ This is a React-based e-commerce project where users can explore, add items to t
 
 To run the project locally:
    ```bash
-   git clone https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-Coder7Raj.git
+  (https://gadget-heaven-website.vercel.app/)
    ```
