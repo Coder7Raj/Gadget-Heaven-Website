@@ -9,7 +9,7 @@ const Home = () => {
 
   // Fetch data from the JSON file
   const fetchData = async () => {
-    const response = await fetch("/public/products.json");
+    const response = await fetch("../products.json");
     const products = await response.json();
     setData(products);
   };
