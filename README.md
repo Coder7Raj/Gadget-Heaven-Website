@@ -4,12 +4,12 @@ This is a React-based e-commerce project where users can explore, add items to t
 
 ## Live Website Link
 
-[Live Demo of Gadget Heaven](https://gadget-heaven-website.vercel.app/)  
+[Live Demo of Gadget Heaven] https://gadget-heaven-website.vercel.app/ 
 (Replace the placeholder with your actual live website link)
 
 ## Requirement Document Link
 
-[Requirement Document](https://drive.google.com/file/d/1ilUUTAPIRi2-5wLIG9CBUG5M9h0pzo80/view)  
+[Requirement Document] https://drive.google.com/file/d/1ilUUTAPIRi2-5wLIG9CBUG5M9h0pzo80/view 
 (Replace the placeholder with your actual requirement document link)
 
 ## React Fundamental Concepts Used in the Project
@@ -40,5 +40,5 @@ This is a React-based e-commerce project where users can explore, add items to t
 
 To run the project locally:
    ```bash
-  (https://gadget-heaven-website.vercel.app/)
+  https://gadget-heaven-website.vercel.app/
    ```
