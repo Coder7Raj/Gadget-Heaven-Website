@@ -1,8 +1,46 @@
-# React + Vite
+# Gadget Heaven - Coder7Raj
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based e-commerce project where users can explore, add items to the cart, and manage their gadgets. The project uses various React concepts and includes features like state management and dynamic routing.
 
-Currently, two official plugins are available:
+## Live Website Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Live Demo of Gadget Heaven](https://your-netlify-link.com)  
+(Replace the placeholder with your actual live website link)
+
+## Requirement Document Link
+
+[Requirement Document](https://your-requirement-link.com)  
+(Replace the placeholder with your actual requirement document link)
+
+## React Fundamental Concepts Used in the Project
+
+- **Components**: Functional and class-based components used to build the user interface.
+- **Props**: Data passed from parent components to child components to ensure reusability.
+- **State Management**: Used to manage the state of the app for dynamic content (e.g., cart, wishlist).
+- **Event Handling**: Event handlers like `onClick` used to trigger actions like adding products to the cart.
+- **Conditional Rendering**: Display different UI elements based on the application state, such as showing the cart items or an empty cart message.
+- **React Router**: Implemented routing to handle navigation between pages like Home, Product Details, Cart, etc.
+- **Hooks**: `useState` and `useEffect` used for managing state and side effects in functional components.
+- **Context API**: Used for managing global state (like user authentication, theme settings, or cart contents) across components.
+
+## Data Handling and Management
+
+- **Context API**: Used for managing global state across components (e.g., cart data, user preferences).
+- **Local Storage**: Utilized to persist user cart and wishlist data even after page reloads.
+
+## Key Features of the Website
+
+1. **Product Catalog**: A list of products with options to view more details, add to cart, and add to wishlist.
+2. **Shopping Cart**: Users can add products to their cart, view the cart, and proceed to checkout.
+3. **Wishlist**: Users can save their favorite products in the wishlist for future purchase.
+4. **Product Details Page**: Displays detailed information about a product, including images, description, and pricing.
+5. **Responsive Design**: The website is fully responsive and works seamlessly on mobile, tablet, and desktop devices.
+
+## Installation Instructions
+
+To run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-Coder7Raj.git
+   ```
